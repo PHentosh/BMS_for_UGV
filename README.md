@@ -91,3 +91,9 @@ battery:
   Q0: <value>f     # Battery rated capacity (e.g., 5.0)
   Vmax: <value>f   # Fully charged voltage (e.g., 13.2)
   Vmin: <value> f  # Fully empty voltage (e.g., 10.8)
+
+```
+
+## System Architecture UML diagram
+
+![System Architecture UML diagram](<./bms_architecture_vert.png>)
