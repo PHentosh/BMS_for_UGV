@@ -210,7 +210,7 @@ class StateParams:
                 self.R   = cfg["battery"]["R"]
                 self.Q   = cfg["battery"]["Q"]
                 self.R1  = cfg["battery"]["R1"]
-                self.C1  = cfg["battery"]["C11"]
+                self.C1  = cfg["battery"]["C1"]
         except Exception:
             return False
 
