@@ -97,3 +97,7 @@ battery:
 ## System Architecture UML diagram
 
 ![System Architecture UML diagram](<./bms_architecture_vert.png>)
+
+## System Architecture UML diagram
+
+[MeRos diagrams](https://drive.google.com/drive/folders/1bGfbzHJYCIrVJPJDub3AFSESvCCbN18t?usp=sharing) for Odysseus Husky
